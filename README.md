@@ -8,7 +8,7 @@ This is a simple command-line game where the player tries to guess a randomly ge
 -Attempt counter
 Win/Lose feedback
 
-##How to Run
+##How to Run:
  Make sure "python" is already installed on your system
 
  Run the file using:
